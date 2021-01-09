@@ -1,7 +1,7 @@
 # Motivation
 Building a smart animated decorative light. 
 
-The idea was stuff an empty magnum Campari bottle with randomly placed RGB LEDs that can be set to a campari red color. Each LED on the strip (WS2812b) can be controlled individually with an arduino-like microcontroller (I used ESP8266 which is smaller and has wifi). 
+The idea was to stuff an empty magnum Campari bottle with randomly placed RGB LEDs that can be set to a campari red color. Each LED on the strip (WS2812b) can be controlled individually with an arduino-like microcontroller (I used ESP8266 which is smaller and has wifi). 
 Watch the [final result video](https://github.com/orr161/MappedNeopixelAnimatedLight/raw/main/exampleCampariLight.mp4).
 
 
