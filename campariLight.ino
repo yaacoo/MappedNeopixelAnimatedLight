@@ -141,7 +141,4 @@ void loop() {
     
   }
   strip.show();
-//  delay(dtime);
-
-//
 }
