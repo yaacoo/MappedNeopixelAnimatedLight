@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yaacoo/MappedNeopixelAnimatedLight)
+
 # Motivation
 Building a smart animated decorative light. 
 
